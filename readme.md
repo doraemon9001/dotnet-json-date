@@ -1,4 +1,5 @@
-# Parse .Net JSON Date
+# Parse .Net JSON Date [![npm version](https://img.shields.io/npm/v/parse-dotnet-json-date.svg)](https://www.npmjs.com/package/parse-dotnet-json-date) [![npm](https://img.shields.io/npm/dm/parse-dotnet-json-date.svg)](https://www.npmjs.com/package/parse-dotnet-json-date)
+
 
 ```sh
 npm install parse-dotnet-json-date
