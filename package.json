@@ -1,0 +1,31 @@
+{
+  "name": "parse-dotnet-json-date",
+  "version": "1.0.0",
+  "description": "parse .net JSON dates",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/featurist/parse-dotnet-json-date.git"
+  },
+  "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/featurist/parse-dotnet-json-date/issues"
+  },
+  "homepage": "https://github.com/featurist/parse-dotnet-json-date#readme",
+  "keywords": [
+    "dotnet",
+    ".net",
+    "json",
+    "date",
+    "dates",
+    "parse"
+  ],
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  }
+}
