@@ -1,6 +1,6 @@
 {
   "name": "parse-dotnet-json-date",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "parse .net JSON dates",
   "main": "index.js",
   "scripts": {
