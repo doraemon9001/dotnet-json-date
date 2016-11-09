@@ -32,5 +32,5 @@ module.exports.replacer = function(key, value) {
 };
 
 module.exports.stringify = function(date) {
-  return `/Date(${date.getTime()})/`;
+  return '/Date(' + date.getTime() + ')/';
 };
